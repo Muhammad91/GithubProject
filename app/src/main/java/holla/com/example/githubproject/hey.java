@@ -2,6 +2,6 @@ package holla.com.example.githubproject;
 
 
 public class hey {
-    String hello = "Hello guys";
+    String hello = "Hello girls";
 }
 
